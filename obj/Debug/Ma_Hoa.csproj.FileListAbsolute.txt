@@ -1,0 +1,47 @@
+c:\users\duong\documents\visual studio 2015\Projects\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe.config
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csprojResolveAssemblyReference.cache
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Form1.resources
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Properties.Resources.resources
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.GenerateResource.Cache
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.pdb
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.exe
+C:\Users\duong\Documents\Visual Studio 2015\Projects\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.pdb
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe.config
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.exe
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.pdb
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.pdb
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Form1.resources
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Properties.Resources.resources
+C:\Users\USER\Desktop\ToanRoiRacNangCao\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe.config
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.exe
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.pdb
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.pdb
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Form1.resources
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Properties.Resources.resources
+C:\Users\Nam\Desktop\Ma_Hoa (1)\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.GenerateResource.Cache
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe.config
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.exe
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.pdb
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.pdb
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Form1.resources
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Properties.Resources.resources
+C:\Users\duong\Desktop\Ma_Hoa_update_nam\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.GenerateResource.Cache
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe.config
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.exe
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\bin\Debug\Ma_Hoa.pdb
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.AssemblyReference.cache
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Form1.resources
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.Properties.Resources.resources
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.GenerateResource.cache
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.csproj.CoreCompileInputs.cache
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.exe
+C:\Users\hungdz\Downloads\Ma_Hoa\Ma_Hoa\Ma_Hoa\obj\Debug\Ma_Hoa.pdb
